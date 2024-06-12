@@ -69,7 +69,7 @@ function App() {
               <ButtonDivRitgh>Book Now</ButtonDivRitgh>
               <LinkRigth href="#" >
                 Track Record
-                <img src={Arrow}/>
+                <img alt="logo arrow" src={Arrow}/>
               </LinkRigth >
             </Divbuttons>
           </DivinfoRight>
