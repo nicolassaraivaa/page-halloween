@@ -28,7 +28,6 @@ import {
   LinkRigth,
   BntGhost,
   DivinfoRight, 
-  moveAbobora
 } from './style'
 
 function App() {
